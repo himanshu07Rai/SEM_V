@@ -34,7 +34,7 @@ Collection of programs that enables users to create and maintain the database.
 
 DB System Environment
 
-![image-20210721154547003](C:\Users\ACER\AppData\Roaming\Typora\typora-user-images\image-20210721154547003.png)
+![image-20210721154547003](Images/DB_System_Environment.jpg)
 
 
 
