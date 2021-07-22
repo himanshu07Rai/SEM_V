@@ -32,9 +32,15 @@ Collection of programs that enables users to create and maintain the database.
 - A database is logically coherent collection of data with some inherent meaning.
 - A database is designed  built and populated with data for a specific purpose.
 
-DB System Environment
+## DB System Environment
 
 ![image-20210721154547003](Images/DB_System_Environment.jpg)
+
+
+
+# Database Model
+
+
 
 
 
