@@ -44,6 +44,14 @@ A Database model defines the logical design and structure of a database and defi
 
 A data model is a diagram that displays a set of tables and the relationships between them. This helps us in understanding he purpose of the table as well as their dependencies.
 
+## Database Schema
+
+Description of the database.
+
+Specified during database design.
+
+Not expected to change frequently.
+
 ## Data Modelling
 
 **Data modeling** is the process of creating a data model for the data to be stored in a database.
@@ -68,7 +76,7 @@ Data modelling has three main stages :
    * Attributes are further identified as key ( define uniqueness of entity ) and not key attributes
    * Primary key - Foreign key relationships are clearly defined
    * Has user friendly Attributes names
-   * Designed and developed independently from the DBMS.
+   * Designed an d developed independently from the DBMS.
      * Limitations or features of a particular DBMS is not considered
    * Bit more efforts required to enhance , in comparison to Conceptual Model
    * Data Modelling tools can be used to create logical data models.
